@@ -234,43 +234,6 @@ gantt
 
 ---
 
-## 💵 Financial Analysis & ROI
-
-**Annual cost savings**
-
-| Cost Category | Annual Savings |
-|---|---|
-| Energy consumption (35% reduction) | $600,000 |
-| Labor cost (40% reduction) | $120,000 |
-| Equipment maintenance | $50,000 |
-| Space utilization optimization | $80,000 |
-| **Total annual savings** | **$850,000 – $1,050,000** |
-
-**5-year ROI projection**
-
-| Year | Cost / Benefit | Net ROI |
-|---|---|---|
-| Year 1 | -$1,350,000 | -$1,350,000 |
-| Year 2 | +$925,000 | -$425,000 (payback in progress) |
-| Year 3 | +$925,000 | +$500,000 |
-| Year 4 | +$925,000 | +$1,425,000 |
-| Year 5 | +$925,000 | +$2,350,000 |
-
----
-
-## 💰 Budget Breakdown
-
-| Budget Item | % of Total | Cost |
-|---|---|---|
-| IoT Hardware (sensors, relays, readers) | 30% | $405,000 |
-| Software Development | 25% | $337,500 |
-| System Integration & Installation | 20% | $270,000 |
-| Staff Training & Change Management | 10% | $135,000 |
-| Project Management & Consulting | 10% | $135,000 |
-| Contingency | 5% | $67,500 |
-| **Total Project Budget** | **100%** | **$1,350,000** |
-
----
 
 ## ⚠️ Risk Assessment
 
