@@ -1,31 +1,12 @@
 # Comprehensive-Smart-Campus-Resource-Optimization-System
-# 🏛️ Smart Campus Resource Optimization System
+#  Smart Campus Resource Optimization System
 
 > An IoT-enabled, AI-powered platform for intelligent energy and space management across university campuses.
 
 
-## 📑 Table of Contents
 
-1. [Executive Summary](#-executive-summary)
-2. [Problem Statement](#-problem-statement)
-3. [Proposed Solution](#-proposed-solution)
-4. [Core Features](#-core-features)
-5. [System Architecture](#-system-architecture)
-6. [Tech Stack](#-tech-stack)
-7. [Sensor Deployment Strategy](#-sensor-deployment-strategy)
-8. [Implementation Timeline](#-implementation-timeline)
-9. [Financial Analysis & ROI](#-financial-analysis--roi)
-10. [Budget Breakdown](#-budget-breakdown)
-11. [Risk Assessment](#-risk-assessment)
-12. [Success Metrics](#-success-metrics)
-13. [Getting Started](#-getting-started)
-14. [Roadmap](#-roadmap)
-15. [Contributing](#-contributing)
-16. [License](#-license)
 
----
-
-## 📋 Executive Summary
+##  Executive Summary
 
 The **Smart Campus Resource Optimization System** is a comprehensive IoT-powered platform designed to automatically manage and optimize the utilization of university facilities — classrooms, laboratories, and administrative spaces. It combines artificial intelligence, real-time sensor data, and predictive analytics to drive down energy consumption, improve space utilization, and enhance the student experience.
 
@@ -41,7 +22,7 @@ The **Smart Campus Resource Optimization System** is a comprehensive IoT-powered
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Universities lose significant money and operational efficiency to facility mismanagement:
 
@@ -63,7 +44,7 @@ Universities lose significant money and operational efficiency to facility misma
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 The platform integrates **IoT sensors**, an **AI analytics engine**, and **automated controls** into a single intelligent facility-management ecosystem. It continuously monitors occupancy, automatically governs lighting and climate control, and surfaces real-time data for campus operations teams.
 
@@ -79,7 +60,7 @@ The platform integrates **IoT sensors**, an **AI analytics engine**, and **autom
 
 ---
 
-## ⚙️ Core Features
+##  Core Features
 
 ### 1. Intelligent Occupancy Detection
 - PIR (Passive Infrared) motion sensors in every classroom
@@ -153,7 +134,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Notes |
 |---|---|---|
