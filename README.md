@@ -20,7 +20,7 @@ The **Smart Campus Resource Optimization System** is a comprehensive IoT-powered
 
 **Investment required:** $1.2M – $1.5M · **Implementation timeline:** 6 months · **ROI timeline:** 18–24 months
 
----
+
 
 ##  Problem Statement
 
