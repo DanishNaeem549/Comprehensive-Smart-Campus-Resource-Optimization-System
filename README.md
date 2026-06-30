@@ -2,7 +2,7 @@
 #  Smart Campus Resource Optimization System
 
 > An IoT-enabled, AI-powered platform for intelligent energy and space management across university campuses.
-
+> 
 ##  Executive Summary
 
 The **Smart Campus Resource Optimization System** is a comprehensive IoT-powered platform designed to automatically manage and optimize the utilization of university facilities — classrooms, laboratories, and administrative spaces. It combines artificial intelligence, real-time sensor data, and predictive analytics to drive down energy consumption, improve space utilization, and enhance the student experience.
